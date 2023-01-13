@@ -5,7 +5,7 @@ function Article({ title, date, preview }) {
 		<div>
 			<article>
 				<h3>{title}</h3>
-				{date ? <small>{date}</small> : <small>January 1, 1970</small>}
+				{date ? <small>{date}</small> : <small>January 13, 2022</small>}
 
 				<p>{preview}</p>
 			</article>

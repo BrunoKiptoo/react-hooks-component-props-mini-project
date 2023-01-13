@@ -7,15 +7,15 @@ const blogData = {
   posts: [
     {
       id: 1,
-      title: "Components 101",
-      date: "December 15, 2020",
+      title: " React Components",
+      date: "January 12, 2022",
       preview: "Setting up the building blocks of your site",
       minutes: 5,
     },
     {
       id: 2,
-      title: "React Data Flow",
-      date: "December 11, 2020",
+      title: "React Data Flow (Props)",
+      date: "January 10, 2020",
       preview: "Passing props is never passé",
       minutes: 15,
     },
