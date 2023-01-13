@@ -3,7 +3,7 @@ import logo from "../assets/logo.svg";
 const blogData = {
   name: "Underreacted",
   image: logo,
-  about: "A blog about learning React",
+  about: "A blog about learning React: By Kiptoo Bruno",
   posts: [
     {
       id: 1,
@@ -15,7 +15,7 @@ const blogData = {
     {
       id: 2,
       title: "React Data Flow (Props)",
-      date: "January 10, 2020",
+      date: "January 10, 2022",
       preview: "Passing props is never passé",
       minutes: 15,
     },
